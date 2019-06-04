@@ -1,7 +1,7 @@
 labels
-state  
-county  
-community  
+state
+county
+community
 communityname
 fold  
 population  
@@ -72,7 +72,7 @@ PersPerOccupHous
 PersPerOwnOccHous  
 PersPerRentOccHous  
 PctPersOwnOccup  
-PctPersDenseHous  
+PctPersDenseHous
 PctHousLess3BR  
 MedNumBR  
 HousVacant  
@@ -97,7 +97,7 @@ NumInShelters
 NumStreet  
 PctForeignBorn  
 PctBornSameState  
-PctSameHouse85  
+PctSameHouse85
 PctSameCity85  
 PctSameState85  
 LemasSwornFT  
